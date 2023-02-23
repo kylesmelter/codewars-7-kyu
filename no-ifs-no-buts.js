@@ -1,5 +1,6 @@
 // DESCRIPTION:
-// Write a function that accepts two numbers a and b and returns whether a is smaller than, bigger than, or equal to b, as a string.
+// Write a function that accepts two numbers a and b and returns whether a is smaller than, bigger than, or equal to b, 
+// as a string.
 
 // (5, 4)   ---> "5 is greater than 4"
 // (-4, -7) ---> "-4 is greater than -7"
