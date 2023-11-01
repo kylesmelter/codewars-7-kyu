@@ -13,7 +13,7 @@
 // #Rules: Lowercase and uppercase letters are the same. So 'A' == 'a'.
 // We only count substrings that are > 1 in length.
 
-// #Input: Two strings with both lower and upper cases. #Output: A boolean value determining if there is a common substring between the two inputs.
+// #Input: Two strings with both lower and upper cases. #Output: A boolean value determining if there is a common substring between the two inputs
 
 function SubstringTest(str1, str2) {
     // We'll first turn each parameter, 'str1' and 'str2,' into lowercase versions
